@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+    <string name="title_activity_favorite">My Favorite List</string>
+    <string name="favorite_string">Favorite</string>
+</resources>
